@@ -2,8 +2,8 @@
 interconnection
 
 Using:  
-git clone repo  
-cd repo  
+git clone https://github.com/iloveooz/interconnection.git  
+cd interconnection  
 mkdir build  
 cd build  
 cmake .. // (requires cmake 3.10 version and above)  
